@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/wusyong/Desktop/webview/script'
+let g:netrw_dirhist_0='/Users/wusyong/Desktop/webview'
+let g:netrw_dirhist_9='/Users/wusyong/.config/alacritty'
+let g:netrw_dirhist_8='/Users/wusyong/Desktop/alacritty/alacritty/src'
+let g:netrw_dirhist_7='/Users/wusyong/Desktop/alacritty/alacritty'
+let g:netrw_dirhist_6='/Users/wusyong/Desktop/alacritty/alacritty/src'
+let g:netrw_dirhist_5='/Users/wusyong/Desktop/alacritty/alacritty'
+let g:netrw_dirhist_4='/Users/wusyong/Desktop/alacritty/alacritty/src'
+let g:netrw_dirhist_3='/Users/wusyong/Desktop/alacritty/alacritty'
+let g:netrw_dirhist_2='/Users/wusyong/Desktop/alacritty'
